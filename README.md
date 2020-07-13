@@ -1,1 +1,1 @@
-# wedding-primo
+# Built with [primo](https://primo.so)
